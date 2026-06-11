@@ -20,6 +20,7 @@ Durable memories for this bot live in this folder.
 - [[panida-alternate-kanna-persona]]
 - [[panida-daily-hanta-weather-updates]]
 - [[panida-daily-oil-economy-updates]]
+- [[panida-daily-world-cup-schedule-updates]]
 - [[panida-economic-and-finance-research]]
 - [[panida-memory-rules]]
 - [[panida-restaurant-and-birthday-planning]]
